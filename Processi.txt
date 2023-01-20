@@ -1,0 +1,30 @@
+Max 5 processi noti:
+
+-Registry  : Un registro dei servizi è un database per lo storage di strutture dati necessarie per la comunicazione a livello di applicazione.
+
+-smss.exe : è responsabile del trattamento delle sessioni sul vostro system. Questo programma è importante per il funzionamento stabile e sicuro del vostro calcolatore e non dovrebbe essere terminato.
+
+-csrss.exe : Questo processo gestisce la maggior parte dei comandi grafici in Windows.
+
+-wininit.exe : Il file Wininit.exe è un'applicazione di avvio per i sistemi operativi Windows.
+
+-services.ex :  gestisce il funzionamento di iniziare e di arresto dei servizi.
+
+Max 3 processi più pesanti:
+
+-Cisco Webex service
+-Discord
+-Google Chrome
+
+Processi aperti dall utente;5
+
+-Blocco note
+-Cisco Webex
+-Discord
+-Google Chrome
+-Gestione attività
+
+
+
+
+

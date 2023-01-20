@@ -1,0 +1,7 @@
+Indirizzo IP [142.251.209.36]
+
+Grandezza in byte 32 byte
+
+Tempistica media di risposta Medio = 48ms
+
+Percentuale perdita pacchetti Persi = 0 (0% persi)
